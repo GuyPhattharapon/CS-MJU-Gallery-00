@@ -1,0 +1,8 @@
+
+
+  .profile-image {
+    width: 300px; /* ปรับขนาดความกว้าง */
+    height: 300px; /* ปรับขนาดความสูง */
+    border-radius: 50%;
+    object-fit: cover;
+  }
